@@ -4,9 +4,6 @@ A zero-UI, system-level AI assistant for Windows. Copy any text, get instant ans
 
 > 拒绝切屏焦虑。一个藏在 Windows 底层的零 UI 知识引擎。
 
-![Uploading Gemini_Generated_Image_gfuswkgfuswkgfus.png…]()
-
-
 ## ✨ 核心理念
 打断心流，是工作中最反人类的设计。
 **AnyText-AI** 不是一个传统的软件，它没有繁杂的界面，纯静默潜伏在系统后台。无论是冗长的学术文献、复杂的英文财报，还是生涩的代码报错，只要能复制，它就能在光标处瞬间为你吐出精准解答。
